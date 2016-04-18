@@ -1,0 +1,74 @@
+
+#ozadje
+{background-color:#441d4d;
+}
+
+
+.jumbotron 
+{background-image: url(img/jumb%20img.jpg);
+    text-align: center;
+    border: 5px solid black
+    
+}
+.carousel-example-generic{
+    position: relative;
+    height: 500px;
+    
+}
+
+.container .naslov
+{font-family: sans-serif;
+    margin: 0px;
+    border: 5px solid black;
+    color: #440a64;
+    background-color: aliceblue;
+    width: 700px;
+    position:relative;
+    left:20%; 
+}
+.container-fluid
+{
+    border: 8px solid black 
+}
+.carousel-inner img
+{ width: 1200px;
+height:auto;
+position:relative;
+left:20%;
+}
+
+
+.row
+{
+ width: 1500px;
+   
+position: absolute;
+left: 13%;
+    margin-top : 110px;}
+
+.input-group
+{
+position:absolute;
+top:800px;
+width: 400px;
+    left:20%;
+border: 4px solid black;
+    margin: 20px;
+    background-color:azure;
+    
+}
+#basic-addon2
+{
+    height:250px;
+    width: 250px;
+    margin: 0px
+}
+.btn-group1
+ 
+{
+    position: relative;
+    top:830px;
+    left: 20%
+}
+
+
